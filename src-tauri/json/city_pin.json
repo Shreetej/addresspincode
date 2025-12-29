@@ -1,0 +1,2982 @@
+{
+  "udupi": [
+    "574",
+    "576"
+  ],
+  "jagitial": [
+    "505"
+  ],
+  "srinagar": [
+    "190",
+    "191",
+    "193"
+  ],
+  "warangal rural": [
+    "506"
+  ],
+  "pakur": [
+    "814",
+    "816"
+  ],
+  "sehore": [
+    "466"
+  ],
+  "warangal urban": [
+    "505",
+    "506"
+  ],
+  "kheda": [
+    "387",
+    "388"
+  ],
+  "buxar": [
+    "802"
+  ],
+  "ranchi": [
+    "829",
+    "834",
+    "835"
+  ],
+  "shivamogga": [
+    "577"
+  ],
+  "ernakulam": [
+    "680",
+    "682",
+    "683",
+    "686"
+  ],
+  "darjeeling": [
+    "726",
+    "734",
+    "735"
+  ],
+  "kolkata": [
+    "700",
+    "900",
+    "901"
+  ],
+  "ganganagar": [
+    "335"
+  ],
+  "vizianagaram": [
+    "531",
+    "532",
+    "535"
+  ],
+  "alwar": [
+    "301",
+    "321"
+  ],
+  "chamoli": [
+    "246"
+  ],
+  "bhilwara": [
+    "311"
+  ],
+  "longding": [
+    "792"
+  ],
+  "yadgir": [
+    "585"
+  ],
+  "jaisalmer": [
+    "342",
+    "345"
+  ],
+  "sawai madhopur": [
+    "322"
+  ],
+  "nagaon": [
+    "782"
+  ],
+  "prakasam": [
+    "523"
+  ],
+  "rajsamand": [
+    "305",
+    "313"
+  ],
+  "samastipur": [
+    "841",
+    "844",
+    "848",
+    "851"
+  ],
+  "mathura": [
+    "281"
+  ],
+  "jhalawar": [
+    "325",
+    "326"
+  ],
+  "barmer": [
+    "305",
+    "344"
+  ],
+  "mysuru": [
+    "570",
+    "571"
+  ],
+  "kolhapur": [
+    "415",
+    "416"
+  ],
+  "sahebganj": [
+    "813",
+    "816"
+  ],
+  "bharatpur": [
+    "321"
+  ],
+  "panch mahals": [
+    "388",
+    "389"
+  ],
+  "morbi": [
+    "360",
+    "363"
+  ],
+  "mumbai": [
+    "400",
+    "410",
+    "440"
+  ],
+  "raisen": [
+    "462",
+    "464"
+  ],
+  "bathinda": [
+    "151"
+  ],
+  "ambala": [
+    "132",
+    "133",
+    "134"
+  ],
+  "tirupati": [
+    "517"
+  ],
+  "wanaparthy": [
+    "509"
+  ],
+  "anantnag": [
+    "192"
+  ],
+  "anuppur": [
+    "484"
+  ],
+  "surajpur": [
+    "497"
+  ],
+  "satara": [
+    "412",
+    "415"
+  ],
+  "kollam": [
+    "689",
+    "690",
+    "691"
+  ],
+  "navsari": [
+    "396"
+  ],
+  "baramulla": [
+    "193"
+  ],
+  "simdega": [
+    "835"
+  ],
+  "peddapalli": [
+    "505"
+  ],
+  "ashoknagar": [
+    "473"
+  ],
+  "dhule": [
+    "424",
+    "425"
+  ],
+  "surat": [
+    "394",
+    "395",
+    "396"
+  ],
+  "kozhikode": [
+    "673"
+  ],
+  "medak": [
+    "502"
+  ],
+  "mahesana": [
+    "382",
+    "384"
+  ],
+  "hanumangarh": [
+    "335"
+  ],
+  "tehri garhwal": [
+    "249"
+  ],
+  "pali": [
+    "306",
+    "342"
+  ],
+  "west karbi anglong": [
+    "782"
+  ],
+  "rajouri": [
+    "185"
+  ],
+  "kupwara": [
+    "193"
+  ],
+  "erode": [
+    "638"
+  ],
+  "ballia": [
+    "221",
+    "277",
+    "802"
+  ],
+  "gadag": [
+    "582"
+  ],
+  "bishnupur": [
+    "795"
+  ],
+  "karbi anglong": [
+    "782",
+    "785",
+    "793"
+  ],
+  "amravati": [
+    "444"
+  ],
+  "spsr nellore": [
+    "524"
+  ],
+  "coimbatore": [
+    "636",
+    "641",
+    "642"
+  ],
+  "annamayya": [
+    "516",
+    "517"
+  ],
+  "anantapur": [
+    "515",
+    "516"
+  ],
+  "porbandar": [
+    "360",
+    "362"
+  ],
+  "tinsukia": [
+    "786"
+  ],
+  "y s r kadapa": [
+    "516"
+  ],
+  "pauri garhwal": [
+    "246",
+    "249"
+  ],
+  "dumka": [
+    "814",
+    "816"
+  ],
+  "raipur": [
+    "492",
+    "493",
+    "494"
+  ],
+  "west godavari": [
+    "534"
+  ],
+  "ahmadabad": [
+    "380",
+    "382"
+  ],
+  "chikkaballapura": [
+    "561",
+    "562",
+    "563"
+  ],
+  "purbi champaran": [
+    "845"
+  ],
+  "bagalkote": [
+    "586",
+    "587"
+  ],
+  "ahmednagar": [
+    "413",
+    "414",
+    "422",
+    "423"
+  ],
+  "jaipur": [
+    "302",
+    "303"
+  ],
+  "golaghat": [
+    "785"
+  ],
+  "seoni": [
+    "480"
+  ],
+  "bastar": [
+    "494"
+  ],
+  "valsad": [
+    "396"
+  ],
+  "bhind": [
+    "477"
+  ],
+  "chhatarpur": [
+    "471"
+  ],
+  "bharuch": [
+    "391",
+    "392",
+    "393",
+    "394"
+  ],
+  "idukki": [
+    "685",
+    "686"
+  ],
+  "kanpur nagar": [
+    "208",
+    "209"
+  ],
+  "rajkot": [
+    "360",
+    "363",
+    "365"
+  ],
+  "kanchipuram": [
+    "600",
+    "601",
+    "602",
+    "603",
+    "631"
+  ],
+  "karimnagar": [
+    "505"
+  ],
+  "adilabad": [
+    "504"
+  ],
+  "pune": [
+    "410",
+    "411",
+    "412",
+    "413",
+    "414"
+  ],
+  "east singhbum": [
+    "831",
+    "832"
+  ],
+  "pithoragarh": [
+    "262"
+  ],
+  "dindori": [
+    "481"
+  ],
+  "narayanpet": [
+    "509"
+  ],
+  "cuttack": [
+    "752",
+    "753",
+    "754",
+    "755"
+  ],
+  "dehradun": [
+    "247",
+    "248",
+    "249"
+  ],
+  "chittoor": [
+    "517"
+  ],
+  "udam singh nagar": [
+    "244",
+    "262",
+    "263"
+  ],
+  "garhwa": [
+    "822"
+  ],
+  "amreli": [
+    "364",
+    "365"
+  ],
+  "east nimar": [
+    "450",
+    "461"
+  ],
+  "tapi": [
+    "394"
+  ],
+  "thiruvarur": [
+    "609",
+    "610",
+    "611",
+    "612",
+    "613",
+    "614"
+  ],
+  "almora": [
+    "263"
+  ],
+  "surendranagar": [
+    "360",
+    "363"
+  ],
+  "dakshina kannada": [
+    "574",
+    "575"
+  ],
+  "east godavari": [
+    "533"
+  ],
+  "neemuch": [
+    "458"
+  ],
+  "ramgarh": [
+    "825",
+    "829"
+  ],
+  "kumuram bheem asifabad": [
+    "504"
+  ],
+  "latehar": [
+    "822",
+    "829",
+    "835"
+  ],
+  "jamnagar": [
+    "360",
+    "361",
+    "363"
+  ],
+  "bageshwar": [
+    "263"
+  ],
+  "shivpuri": [
+    "473"
+  ],
+  "sangareddy": [
+    "502"
+  ],
+  "bhagalpur": [
+    "812",
+    "813",
+    "853"
+  ],
+  "kannur": [
+    "670",
+    "673"
+  ],
+  "khagaria": [
+    "848",
+    "851",
+    "852",
+    "853"
+  ],
+  "narmada": [
+    "391",
+    "393"
+  ],
+  "mahabubnagar": [
+    "509"
+  ],
+  "nainital": [
+    "244",
+    "262",
+    "263"
+  ],
+  "aurangabad": [
+    "423",
+    "431",
+    "824"
+  ],
+  "dungarpur": [
+    "314"
+  ],
+  "virudhunagar": [
+    "626",
+    "627"
+  ],
+  "firozepur": [
+    "142",
+    "152"
+  ],
+  "purba bardhaman": [
+    "712",
+    "713",
+    "731",
+    "741"
+  ],
+  "jagatsinghapur": [
+    "754"
+  ],
+  "baran": [
+    "325"
+  ],
+  "sagar": [
+    "464",
+    "470"
+  ],
+  "24 paraganas south": [
+    "700",
+    "743"
+  ],
+  "belagavi": [
+    "590",
+    "591"
+  ],
+  "ballari": [
+    "583"
+  ],
+  "bengaluru urban": [
+    "560",
+    "562",
+    "572",
+    "575"
+  ],
+  "satna": [
+    "485"
+  ],
+  "kamrup": [
+    "781",
+    "784"
+  ],
+  "jodhpur": [
+    "334",
+    "342",
+    "345"
+  ],
+  "chitradurga": [
+    "577"
+  ],
+  "guntur": [
+    "522"
+  ],
+  "krishna": [
+    "520",
+    "521"
+  ],
+  "kamrup metro": [
+    "781",
+    "782"
+  ],
+  "kota": [
+    "324",
+    "325",
+    "326"
+  ],
+  "dhamtari": [
+    "492",
+    "493",
+    "494"
+  ],
+  "kodagu": [
+    "571",
+    "574"
+  ],
+  "nashik": [
+    "422",
+    "423",
+    "424"
+  ],
+  "arvalli": [
+    "383"
+  ],
+  "katni": [
+    "483"
+  ],
+  "sangrur": [
+    "148"
+  ],
+  "muzaffarpur": [
+    "841",
+    "842",
+    "843",
+    "844",
+    "848"
+  ],
+  "koderma": [
+    "825"
+  ],
+  "mahasamund": [
+    "492",
+    "493"
+  ],
+  "mandla": [
+    "481"
+  ],
+  "medinipur east": [
+    "721"
+  ],
+  "srikakulam": [
+    "532",
+    "535"
+  ],
+  "chhindwara": [
+    "460",
+    "480"
+  ],
+  "damoh": [
+    "470"
+  ],
+  "hassan": [
+    "573"
+  ],
+  "ukhrul": [
+    "795"
+  ],
+  "patna": [
+    "800",
+    "801",
+    "802",
+    "803",
+    "804",
+    "811",
+    "812",
+    "845",
+    "851"
+  ],
+  "bengaluru rural": [
+    "560",
+    "561",
+    "562"
+  ],
+  "indore": [
+    "452",
+    "453",
+    "457"
+  ],
+  "balaghat": [
+    "481"
+  ],
+  "jangoan": [
+    "506"
+  ],
+  "dang": [
+    "394"
+  ],
+  "chittorgarh": [
+    "312",
+    "323"
+  ],
+  "kolar": [
+    "561",
+    "563"
+  ],
+  "mirzapur": [
+    "231"
+  ],
+  "fatehpur": [
+    "212"
+  ],
+  "hazaribagh": [
+    "825",
+    "829"
+  ],
+  "malappuram": [
+    "673",
+    "676",
+    "679",
+    "680"
+  ],
+  "mandsaur": [
+    "458"
+  ],
+  "jalore": [
+    "307",
+    "343"
+  ],
+  "parvathipuram manyam": [
+    "532",
+    "535"
+  ],
+  "baloda bazar": [
+    "492",
+    "493"
+  ],
+  "purulia": [
+    "723"
+  ],
+  "uttara kannada": [
+    "581"
+  ],
+  "kurnool": [
+    "518",
+    "523"
+  ],
+  "sikar": [
+    "331",
+    "332"
+  ],
+  "rudra prayag": [
+    "246"
+  ],
+  "visakhapatanam": [
+    "530",
+    "531",
+    "535"
+  ],
+  "pratapgarh": [
+    "229",
+    "230",
+    "312"
+  ],
+  "dinajpur dakshin": [
+    "733"
+  ],
+  "harda": [
+    "461"
+  ],
+  "wayanad": [
+    "670",
+    "673"
+  ],
+  "ranga reddy": [
+    "500",
+    "501",
+    "508",
+    "509"
+  ],
+  "chikkamagaluru": [
+    "573",
+    "577"
+  ],
+  "rajnandgaon": [
+    "491"
+  ],
+  "agra": [
+    "282",
+    "283"
+  ],
+  "devbhumi dwarka": [
+    "360",
+    "361"
+  ],
+  "haveri": [
+    "581"
+  ],
+  "saraikela kharsawan": [
+    "831",
+    "832",
+    "833",
+    "835"
+  ],
+  "thiruvananthapuram": [
+    "691",
+    "695"
+  ],
+  "bikaner": [
+    "331",
+    "334"
+  ],
+  "ajmer": [
+    "305",
+    "313"
+  ],
+  "jhabua": [
+    "457"
+  ],
+  "pathanamthitta": [
+    "685",
+    "686",
+    "689",
+    "690",
+    "691"
+  ],
+  "alappuzha": [
+    "686",
+    "688",
+    "689",
+    "690"
+  ],
+  "sirohi": [
+    "307"
+  ],
+  "siddipet": [
+    "502",
+    "505",
+    "506"
+  ],
+  "ratlam": [
+    "457"
+  ],
+  "palamu": [
+    "822"
+  ],
+  "udaipur": [
+    "307",
+    "313"
+  ],
+  "shahdol": [
+    "484"
+  ],
+  "darbhanga": [
+    "846",
+    "847",
+    "848"
+  ],
+  "mandya": [
+    "571"
+  ],
+  "nizamabad": [
+    "503",
+    "505"
+  ],
+  "bhojpur": [
+    "802"
+  ],
+  "bahraich": [
+    "271"
+  ],
+  "darrang": [
+    "784"
+  ],
+  "vikarabad": [
+    "501",
+    "502",
+    "509"
+  ],
+  "sonipat": [
+    "131"
+  ],
+  "hanumakonda": [
+    "505",
+    "506"
+  ],
+  "lakhimpur": [
+    "784",
+    "787"
+  ],
+  "sabar kantha": [
+    "383"
+  ],
+  "gaya": [
+    "803",
+    "804",
+    "805",
+    "823",
+    "824"
+  ],
+  "vadodara": [
+    "388",
+    "390",
+    "391",
+    "392"
+  ],
+  "gumla": [
+    "835"
+  ],
+  "banas kantha": [
+    "385"
+  ],
+  "tumakuru": [
+    "561",
+    "572"
+  ],
+  "baleshwar": [
+    "756",
+    "757"
+  ],
+  "purnia": [
+    "852",
+    "853",
+    "854"
+  ],
+  "dharwad": [
+    "580",
+    "581",
+    "582"
+  ],
+  "dohad": [
+    "389"
+  ],
+  "s a s nagar": [
+    "140",
+    "160"
+  ],
+  "gir somnath": [
+    "362"
+  ],
+  "medinipur west": [
+    "721"
+  ],
+  "vaishali": [
+    "843",
+    "844"
+  ],
+  "tiruppur": [
+    "638",
+    "641",
+    "642"
+  ],
+  "guna": [
+    "473"
+  ],
+  "maldah": [
+    "732",
+    "733",
+    "742"
+  ],
+  "thrissur": [
+    "679",
+    "680"
+  ],
+  "chamarajanagara": [
+    "571"
+  ],
+  "jalaun": [
+    "285"
+  ],
+  "raichur": [
+    "584"
+  ],
+  "nandyal": [
+    "518"
+  ],
+  "junagadh": [
+    "360",
+    "362",
+    "365"
+  ],
+  "gariyaband": [
+    "492",
+    "493"
+  ],
+  "patiala": [
+    "140",
+    "147"
+  ],
+  "banswara": [
+    "327"
+  ],
+  "datia": [
+    "475"
+  ],
+  "kachchh": [
+    "370"
+  ],
+  "gandhinagar": [
+    "382"
+  ],
+  "kangra": [
+    "175",
+    "176",
+    "177"
+  ],
+  "panipat": [
+    "132"
+  ],
+  "betul": [
+    "460"
+  ],
+  "karur": [
+    "621",
+    "638",
+    "639"
+  ],
+  "bhopal": [
+    "462",
+    "463",
+    "464",
+    "474"
+  ],
+  "bankura": [
+    "713",
+    "721",
+    "722"
+  ],
+  "palakkad": [
+    "678",
+    "679"
+  ],
+  "bemetara": [
+    "490",
+    "491"
+  ],
+  "chhotaudepur": [
+    "391"
+  ],
+  "tiruchirappalli": [
+    "620",
+    "621",
+    "622",
+    "639"
+  ],
+  "tirupathur": [
+    "635"
+  ],
+  "papum pare": [
+    "791",
+    "792"
+  ],
+  "sidhi": [
+    "486"
+  ],
+  "janjgir champa": [
+    "495"
+  ],
+  "churu": [
+    "331"
+  ],
+  "patan": [
+    "384",
+    "385"
+  ],
+  "jayashankar bhupalapally": [
+    "505",
+    "506"
+  ],
+  "tikamgarh": [
+    "472"
+  ],
+  "shravasti": [
+    "271"
+  ],
+  "anand": [
+    "387",
+    "388",
+    "480"
+  ],
+  "sangli": [
+    "415",
+    "416"
+  ],
+  "west garo hills": [
+    "793",
+    "794"
+  ],
+  "davangere": [
+    "577",
+    "583"
+  ],
+  "dhanbad": [
+    "826",
+    "828"
+  ],
+  "imphal west": [
+    "795"
+  ],
+  "alirajpur": [
+    "457"
+  ],
+  "jhargram": [
+    "721"
+  ],
+  "namsai": [
+    "792"
+  ],
+  "thoubal": [
+    "795"
+  ],
+  "agar malwa": [
+    "465"
+  ],
+  "bidar": [
+    "585"
+  ],
+  "pilibhit": [
+    "243",
+    "262"
+  ],
+  "bandipora": [
+    "193"
+  ],
+  "south west khasi hills": [
+    "793",
+    "794"
+  ],
+  "east district": [
+    "737"
+  ],
+  "sambalpur": [
+    "767",
+    "768",
+    "769"
+  ],
+  "vidisha": [
+    "464"
+  ],
+  "morena": [
+    "476"
+  ],
+  "dhubri": [
+    "783"
+  ],
+  "mahisagar": [
+    "388",
+    "389"
+  ],
+  "kakching": [
+    "795"
+  ],
+  "nagaur": [
+    "305",
+    "341",
+    "342"
+  ],
+  "bhavnagar": [
+    "364",
+    "365"
+  ],
+  "west tripura": [
+    "799"
+  ],
+  "tuticorin": [
+    "626",
+    "627",
+    "628"
+  ],
+  "shajapur": [
+    "465"
+  ],
+  "jaunpur": [
+    "222",
+    "223",
+    "228"
+  ],
+  "muzaffarnagar": [
+    "247",
+    "251"
+  ],
+  "vijayapura": [
+    "586"
+  ],
+  "sundargarh": [
+    "768",
+    "769",
+    "770"
+  ],
+  "narsinghpur": [
+    "487"
+  ],
+  "rajgarh": [
+    "465"
+  ],
+  "barabanki": [
+    "225"
+  ],
+  "anugul": [
+    "759"
+  ],
+  "haridwar": [
+    "247",
+    "249"
+  ],
+  "umaria": [
+    "484"
+  ],
+  "bhandara": [
+    "441"
+  ],
+  "jogulamba gadwal": [
+    "509"
+  ],
+  "nandurbar": [
+    "425"
+  ],
+  "poonch": [
+    "185"
+  ],
+  "east": [
+    "110"
+  ],
+  "jalgaon": [
+    "423",
+    "424",
+    "425"
+  ],
+  "khordha": [
+    "751",
+    "752",
+    "754"
+  ],
+  "khammam": [
+    "507"
+  ],
+  "uttar bastar kanker": [
+    "494"
+  ],
+  "azamgarh": [
+    "223",
+    "276"
+  ],
+  "siddharth nagar": [
+    "272"
+  ],
+  "tirunelveli": [
+    "626",
+    "627",
+    "628"
+  ],
+  "ayodhya": [
+    "224"
+  ],
+  "west singhbhum": [
+    "833",
+    "835"
+  ],
+  "deoria": [
+    "273",
+    "274"
+  ],
+  "namakkal": [
+    "621",
+    "636",
+    "637",
+    "638"
+  ],
+  "cuddalore": [
+    "605",
+    "606",
+    "607",
+    "608"
+  ],
+  "rupnagar": [
+    "140"
+  ],
+  "ludhiana": [
+    "141",
+    "142"
+  ],
+  "gwalior": [
+    "474",
+    "475"
+  ],
+  "singrauli": [
+    "486"
+  ],
+  "munger": [
+    "228",
+    "811",
+    "813"
+  ],
+  "sivaganga": [
+    "622",
+    "625",
+    "630"
+  ],
+  "dholpur": [
+    "328"
+  ],
+  "sheopur": [
+    "476"
+  ],
+  "kaushambi": [
+    "212"
+  ],
+  "barpeta": [
+    "781",
+    "783"
+  ],
+  "khargone": [
+    "451"
+  ],
+  "lohardaga": [
+    "835"
+  ],
+  "saharanpur": [
+    "201",
+    "247"
+  ],
+  "24 paraganas north": [
+    "700",
+    "743"
+  ],
+  "rae bareli": [
+    "229"
+  ],
+  "nalbari": [
+    "781",
+    "805"
+  ],
+  "yadadri bhuvanagiri": [
+    "508"
+  ],
+  "begusarai": [
+    "811",
+    "848",
+    "851"
+  ],
+  "rewa": [
+    "486"
+  ],
+  "nadia": [
+    "713",
+    "741",
+    "742"
+  ],
+  "faridabad": [
+    "121"
+  ],
+  "churachandpur": [
+    "795"
+  ],
+  "senapati": [
+    "795"
+  ],
+  "tiruvannamalai": [
+    "604",
+    "606",
+    "631",
+    "632",
+    "635"
+  ],
+  "suryapet": [
+    "508"
+  ],
+  "mahabubabad": [
+    "506",
+    "507"
+  ],
+  "jabalpur": [
+    "482",
+    "483"
+  ],
+  "villupuram": [
+    "604",
+    "605",
+    "606",
+    "607"
+  ],
+  "nalgonda": [
+    "508"
+  ],
+  "dindigul": [
+    "624",
+    "642"
+  ],
+  "ratnagiri": [
+    "415",
+    "416"
+  ],
+  "tonk": [
+    "304"
+  ],
+  "giridih": [
+    "815",
+    "825"
+  ],
+  "bhadradri kothagudem": [
+    "507"
+  ],
+  "mulugu": [
+    "506",
+    "507"
+  ],
+  "ariyalur": [
+    "606",
+    "608",
+    "612",
+    "621"
+  ],
+  "bokaro": [
+    "825",
+    "827",
+    "828",
+    "829"
+  ],
+  "nagarkurnool": [
+    "509"
+  ],
+  "parbhani": [
+    "431"
+  ],
+  "godda": [
+    "813",
+    "814",
+    "816"
+  ],
+  "hoshangabad": [
+    "461"
+  ],
+  "ramanathapuram": [
+    "623"
+  ],
+  "yanam": [
+    "533"
+  ],
+  "nagpur": [
+    "400",
+    "440",
+    "441"
+  ],
+  "mancherial": [
+    "504"
+  ],
+  "kottayam": [
+    "686"
+  ],
+  "dausa": [
+    "303",
+    "321",
+    "322"
+  ],
+  "delhi": [
+    "110"
+  ],
+  "gautam buddha nagar": [
+    "201",
+    "203"
+  ],
+  "sindhudurg": [
+    "416"
+  ],
+  "jamui": [
+    "811"
+  ],
+  "jhunjhunu": [
+    "331",
+    "332",
+    "333"
+  ],
+  "gurugram": [
+    "122"
+  ],
+  "kamareddy": [
+    "503"
+  ],
+  "hoshiarpur": [
+    "144",
+    "146"
+  ],
+  "nanded": [
+    "431"
+  ],
+  "solapur": [
+    "413"
+  ],
+  "burhanpur": [
+    "450"
+  ],
+  "ntr": [
+    "520",
+    "521"
+  ],
+  "lakhisarai": [
+    "811"
+  ],
+  "firozabad": [
+    "283"
+  ],
+  "bijapur": [
+    "494",
+    "586"
+  ],
+  "amethi": [
+    "227",
+    "228",
+    "229"
+  ],
+  "tamenglong": [
+    "795"
+  ],
+  "raigarh": [
+    "400",
+    "496"
+  ],
+  "jehanabad": [
+    "801",
+    "804",
+    "824"
+  ],
+  "imphal east": [
+    "795"
+  ],
+  "y s r": [
+    "516"
+  ],
+  "botad": [
+    "363",
+    "364",
+    "382"
+  ],
+  "kalaburagi": [
+    "585"
+  ],
+  "mumbai suburban": [
+    "400"
+  ],
+  "pashchim champaran": [
+    "845"
+  ],
+  "rohtas": [
+    "802",
+    "821"
+  ],
+  "jashpur": [
+    "496"
+  ],
+  "chandauli": [
+    "221",
+    "232"
+  ],
+  "mansa": [
+    "151"
+  ],
+  "central": [
+    "110",
+    "900",
+    "901"
+  ],
+  "sri sathya sai": [
+    "515"
+  ],
+  "hisar": [
+    "125"
+  ],
+  "cachar": [
+    "782",
+    "788"
+  ],
+  "ganjam": [
+    "760",
+    "761"
+  ],
+  "puri": [
+    "751",
+    "752"
+  ],
+  "palwal": [
+    "121"
+  ],
+  "dewas": [
+    "455"
+  ],
+  "panna": [
+    "488"
+  ],
+  "basti": [
+    "271",
+    "272"
+  ],
+  "beed": [
+    "413",
+    "414",
+    "431"
+  ],
+  "hojai": [
+    "782"
+  ],
+  "jalandhar": [
+    "144"
+  ],
+  "ujjain": [
+    "456"
+  ],
+  "mungeli": [
+    "495"
+  ],
+  "uttar kashi": [
+    "249"
+  ],
+  "gajapati": [
+    "761"
+  ],
+  "prayagraj": [
+    "211",
+    "212",
+    "221",
+    "229"
+  ],
+  "thanjavur": [
+    "609",
+    "612",
+    "613",
+    "614"
+  ],
+  "birbhum": [
+    "713",
+    "731"
+  ],
+  "varanasi": [
+    "221",
+    "232"
+  ],
+  "goalpara": [
+    "783",
+    "794"
+  ],
+  "durg": [
+    "490",
+    "491"
+  ],
+  "ranipet": [
+    "604",
+    "631",
+    "632"
+  ],
+  "alipurduar": [
+    "735",
+    "736"
+  ],
+  "barwani": [
+    "451"
+  ],
+  "kasaragod": [
+    "670",
+    "671"
+  ],
+  "una": [
+    "174",
+    "176",
+    "177"
+  ],
+  "vijayawada": [
+    "520",
+    "521"
+  ],
+  "tuensang": [
+    "798"
+  ],
+  "rajanna sircilla": [
+    "505"
+  ],
+  "balangir": [
+    "767"
+  ],
+  "rampur": [
+    "244"
+  ],
+  "bhadrak": [
+    "755",
+    "756"
+  ],
+  "mayurbhanj": [
+    "756",
+    "757"
+  ],
+  "bengaluru": [
+    "560"
+  ],
+  "new delhi": [
+    "110"
+  ],
+  "washim": [
+    "444"
+  ],
+  "sant kabeer nagar": [
+    "272"
+  ],
+  "koppal": [
+    "583"
+  ],
+  "siwan": [
+    "841"
+  ],
+  "gorakhpur": [
+    "271",
+    "272",
+    "273"
+  ],
+  "ganderbal": [
+    "191",
+    "193"
+  ],
+  "yavatmal": [
+    "445"
+  ],
+  "leh ladakh": [
+    "194"
+  ],
+  "akola": [
+    "444"
+  ],
+  "karnal": [
+    "132"
+  ],
+  "baghpat": [
+    "250"
+  ],
+  "chandel": [
+    "795"
+  ],
+  "nagapattinam": [
+    "608",
+    "609",
+    "610",
+    "611",
+    "612",
+    "614"
+  ],
+  "palghar": [
+    "401",
+    "421"
+  ],
+  "balrampur": [
+    "271",
+    "497"
+  ],
+  "chandigarh": [
+    "140",
+    "160"
+  ],
+  "charki dadri": [
+    "127"
+  ],
+  "kheri": [
+    "261",
+    "262"
+  ],
+  "dhemaji": [
+    "787"
+  ],
+  "dhar": [
+    "454"
+  ],
+  "kargil": [
+    "194"
+  ],
+  "rohtak": [
+    "123",
+    "124"
+  ],
+  "kulgam": [
+    "192"
+  ],
+  "upper siang": [
+    "791"
+  ],
+  "shahjahanpur": [
+    "242"
+  ],
+  "vellore": [
+    "631",
+    "632",
+    "635"
+  ],
+  "baksa": [
+    "781"
+  ],
+  "kandhamal": [
+    "761",
+    "762"
+  ],
+  "rayagada": [
+    "764",
+    "765"
+  ],
+  "thiruvallur": [
+    "600",
+    "601",
+    "602",
+    "631"
+  ],
+  "madurai": [
+    "625"
+  ],
+  "jamtara": [
+    "814",
+    "815"
+  ],
+  "kallakurichi": [
+    "605",
+    "606",
+    "607"
+  ],
+  "osmanabad": [
+    "413"
+  ],
+  "pulwama": [
+    "191",
+    "192"
+  ],
+  "bengaluru south": [
+    "561",
+    "562"
+  ],
+  "chandrapur": [
+    "441",
+    "442"
+  ],
+  "deoghar": [
+    "814",
+    "815"
+  ],
+  "hooghly": [
+    "712",
+    "713",
+    "721"
+  ],
+  "south andamans": [
+    "744"
+  ],
+  "fatehgarh sahib": [
+    "140",
+    "141",
+    "147"
+  ],
+  "chirang": [
+    "783"
+  ],
+  "kokrajhar": [
+    "783"
+  ],
+  "aligarh": [
+    "202",
+    "204",
+    "246"
+  ],
+  "latur": [
+    "413",
+    "431"
+  ],
+  "noklak": [
+    "798"
+  ],
+  "gomati": [
+    "799"
+  ],
+  "meerut": [
+    "245",
+    "250"
+  ],
+  "west jaintia hills": [
+    "793"
+  ],
+  "thane": [
+    "400",
+    "401",
+    "421"
+  ],
+  "jajapur": [
+    "228",
+    "754",
+    "755",
+    "758"
+  ],
+  "unakoti": [
+    "799"
+  ],
+  "west district": [
+    "737"
+  ],
+  "bundi": [
+    "323"
+  ],
+  "alluri sitharama raju": [
+    "533"
+  ],
+  "hyderabad": [
+    "500",
+    "501"
+  ],
+  "shimla": [
+    "171",
+    "172",
+    "173"
+  ],
+  "chennai": [
+    "600"
+  ],
+  "nayagarh": [
+    "752"
+  ],
+  "wardha": [
+    "442"
+  ],
+  "pondicherry": [
+    "605",
+    "607"
+  ],
+  "south district": [
+    "737"
+  ],
+  "chhatrapati sambhajinagar": [
+    "423",
+    "431"
+  ],
+  "north district": [
+    "737"
+  ],
+  "udalguri": [
+    "784"
+  ],
+  "bilaspur": [
+    "174",
+    "495"
+  ],
+  "east khasi hills": [
+    "793"
+  ],
+  "gondia": [
+    "441"
+  ],
+  "west khasi hills": [
+    "793",
+    "794"
+  ],
+  "jalpaiguri": [
+    "734",
+    "735"
+  ],
+  "nirmal": [
+    "504",
+    "799"
+  ],
+  "fazilka": [
+    "152"
+  ],
+  "deogarh": [
+    "768"
+  ],
+  "sonitpur": [
+    "784"
+  ],
+  "kathua": [
+    "184"
+  ],
+  "theni": [
+    "625"
+  ],
+  "alto porvorim": [
+    "403"
+  ],
+  "buldhana": [
+    "443",
+    "444"
+  ],
+  "kanker": [
+    "494"
+  ],
+  "warangal": [
+    "506"
+  ],
+  "budgam": [
+    "190",
+    "191",
+    "192",
+    "193"
+  ],
+  "fatehabad": [
+    "125"
+  ],
+  "lucknow": [
+    "226"
+  ],
+  "araria": [
+    "854"
+  ],
+  "hamirpur": [
+    "174",
+    "176",
+    "177",
+    "210",
+    "285"
+  ],
+  "sheikhpura": [
+    "811"
+  ],
+  "karauli": [
+    "321",
+    "322"
+  ],
+  "ambedkar nagar": [
+    "224",
+    "262"
+  ],
+  "jalna": [
+    "431"
+  ],
+  "chamba": [
+    "176"
+  ],
+  "bangalore": [
+    "560",
+    "562"
+  ],
+  "kondagaon": [
+    "494"
+  ],
+  "marigaon": [
+    "782"
+  ],
+  "lower subansiri": [
+    "791"
+  ],
+  "upper subansiri": [
+    "791"
+  ],
+  "saran": [
+    "841"
+  ],
+  "banka": [
+    "811",
+    "813",
+    "814"
+  ],
+  "bongaigaon": [
+    "783"
+  ],
+  "mon": [
+    "798"
+  ],
+  "salem": [
+    "621",
+    "636",
+    "637"
+  ],
+  "sultanpur": [
+    "222",
+    "227",
+    "228"
+  ],
+  "jammu": [
+    "180",
+    "181",
+    "184",
+    "185"
+  ],
+  "mau": [
+    "221",
+    "275",
+    "276"
+  ],
+  "kaithal": [
+    "136"
+  ],
+  "hailakandi": [
+    "788"
+  ],
+  "yamunanagar": [
+    "133",
+    "135"
+  ],
+  "madhubani": [
+    "847"
+  ],
+  "sepahijala": [
+    "799"
+  ],
+  "shamli": [
+    "247",
+    "251"
+  ],
+  "kendrapara": [
+    "754",
+    "755"
+  ],
+  "sivasagar": [
+    "785"
+  ],
+  "south tripura": [
+    "799"
+  ],
+  "gadchiroli": [
+    "441",
+    "442"
+  ],
+  "perambalur": [
+    "621"
+  ],
+  "mokokchung": [
+    "798"
+  ],
+  "bareilly": [
+    "243",
+    "244",
+    "262"
+  ],
+  "charaideo": [
+    "785"
+  ],
+  "calicut": [
+    "673"
+  ],
+  "east jaintia hills": [
+    "793"
+  ],
+  "kishanganj": [
+    "855"
+  ],
+  "katihar": [
+    "813",
+    "853",
+    "854",
+    "855"
+  ],
+  "bhadohi": [
+    "221"
+  ],
+  "majuli": [
+    "785",
+    "787"
+  ],
+  "gonda": [
+    "271"
+  ],
+  "kullu": [
+    "172",
+    "175"
+  ],
+  "dhalai": [
+    "799"
+  ],
+  "howrah": [
+    "700",
+    "711",
+    "712"
+  ],
+  "mahendragarh": [
+    "123"
+  ],
+  "the nilgiris": [
+    "643"
+  ],
+  "raigad": [
+    "400",
+    "402",
+    "410",
+    "415"
+  ],
+  "dimapur": [
+    "797"
+  ],
+  "khunti": [
+    "835"
+  ],
+  "coochbehar": [
+    "735",
+    "736"
+  ],
+  "south east": [
+    "110"
+  ],
+  "champawat": [
+    "262"
+  ],
+  "kannauj": [
+    "209"
+  ],
+  "dhenkanal": [
+    "759"
+  ],
+  "dima hasao": [
+    "788"
+  ],
+  "dibang valley": [
+    "791",
+    "792"
+  ],
+  "nalanda": [
+    "801",
+    "803",
+    "805",
+    "811"
+  ],
+  "hardoi": [
+    "241"
+  ],
+  "dantewada": [
+    "494"
+  ],
+  "anjaw": [
+    "792"
+  ],
+  "boudh": [
+    "762"
+  ],
+  "malkangiri": [
+    "764"
+  ],
+  "sirsa": [
+    "125"
+  ],
+  "jorhat": [
+    "785",
+    "797"
+  ],
+  "dibrugarh": [
+    "785",
+    "786",
+    "788"
+  ],
+  "medchal malkajgiri": [
+    "500",
+    "501"
+  ],
+  "kohima": [
+    "797"
+  ],
+  "amritsar": [
+    "143"
+  ],
+  "supaul": [
+    "847",
+    "852",
+    "854"
+  ],
+  "chatra": [
+    "825",
+    "829"
+  ],
+  "kalahandi": [
+    "766"
+  ],
+  "sonepur": [
+    "767"
+  ],
+  "moradabad": [
+    "244"
+  ],
+  "shahid bhagat singh nagar": [
+    "144"
+  ],
+  "north and middle andaman": [
+    "744"
+  ],
+  "pudukkottai": [
+    "613",
+    "614",
+    "621",
+    "622"
+  ],
+  "north goa": [
+    "403"
+  ],
+  "east garo hills": [
+    "794"
+  ],
+  "palnadu": [
+    "522"
+  ],
+  "murshidabad": [
+    "713",
+    "731",
+    "741",
+    "742"
+  ],
+  "korea": [
+    "497"
+  ],
+  "etah": [
+    "207",
+    "281"
+  ],
+  "narayanpur": [
+    "494"
+  ],
+  "auraiya": [
+    "206"
+  ],
+  "mandi": [
+    "175",
+    "176"
+  ],
+  "north": [
+    "110",
+    "124"
+  ],
+  "lahul and spiti": [
+    "172",
+    "175"
+  ],
+  "sukma": [
+    "494"
+  ],
+  "sitamarhi": [
+    "843"
+  ],
+  "etawah": [
+    "206"
+  ],
+  "budaun": [
+    "243"
+  ],
+  "kanpur dehat": [
+    "209"
+  ],
+  "tarn taran": [
+    "143"
+  ],
+  "dharmapuri": [
+    "635",
+    "636"
+  ],
+  "sitapur": [
+    "261",
+    "262"
+  ],
+  "kurukshetra": [
+    "136"
+  ],
+  "gopalganj": [
+    "841"
+  ],
+  "south salmara mancachar": [
+    "783"
+  ],
+  "bijnor": [
+    "246"
+  ],
+  "kushi nagar": [
+    "274"
+  ],
+  "gariaband": [
+    "493"
+  ],
+  "nawada": [
+    "801",
+    "805"
+  ],
+  "aizawl": [
+    "796"
+  ],
+  "kaimur bhabua": [
+    "802",
+    "821"
+  ],
+  "bargarh": [
+    "768"
+  ],
+  "sheohar": [
+    "843"
+  ],
+  "lunglei": [
+    "796"
+  ],
+  "barnala": [
+    "148"
+  ],
+  "banda": [
+    "210"
+  ],
+  "udhampur": [
+    "182",
+    "184",
+    "185"
+  ],
+  "dinajpur uttar": [
+    "733"
+  ],
+  "hathras": [
+    "202",
+    "204",
+    "281"
+  ],
+  "nuapada": [
+    "766"
+  ],
+  "mainpuri": [
+    "205",
+    "209"
+  ],
+  "kendujhar": [
+    "755",
+    "756",
+    "758"
+  ],
+  "saitual": [
+    "796"
+  ],
+  "champhai": [
+    "796"
+  ],
+  "solan": [
+    "171",
+    "173",
+    "174"
+  ],
+  "madhepura": [
+    "852",
+    "853"
+  ],
+  "bulandshahr": [
+    "203"
+  ],
+  "korba": [
+    "495"
+  ],
+  "nabarangpur": [
+    "764"
+  ],
+  "sakti": [
+    "495"
+  ],
+  "ribhoi": [
+    "793"
+  ],
+  "sambhal": [
+    "242",
+    "243",
+    "244"
+  ],
+  "khawzawl": [
+    "796"
+  ],
+  "moga": [
+    "142",
+    "151",
+    "152"
+  ],
+  "lower dibang valley": [
+    "791",
+    "792"
+  ],
+  "biswanath": [
+    "784"
+  ],
+  "north tripura": [
+    "799"
+  ],
+  "serchhip": [
+    "796"
+  ],
+  "bhiwani": [
+    "127"
+  ],
+  "kalimpong": [
+    "734",
+    "735"
+  ],
+  "paschim bardhaman": [
+    "713"
+  ],
+  "hingoli": [
+    "431"
+  ],
+  "khowai": [
+    "799"
+  ],
+  "banaskantha": [
+    "385"
+  ],
+  "tenkasi": [
+    "627",
+    "628"
+  ],
+  "kolasib": [
+    "796"
+  ],
+  "kollam and alappuzha": [
+    "690"
+  ],
+  "peren": [
+    "797"
+  ],
+  "zunheboto": [
+    "797",
+    "798"
+  ],
+  "phek": [
+    "797"
+  ],
+  "kiphire": [
+    "798"
+  ],
+  "wokha": [
+    "797"
+  ],
+  "longleng": [
+    "798"
+  ],
+  "mamit": [
+    "796"
+  ],
+  "pathankot": [
+    "143",
+    "145"
+  ],
+  "malda": [
+    "732"
+  ],
+  "shopian": [
+    "192"
+  ],
+  "ri bhoi": [
+    "793"
+  ],
+  "lawngtlai": [
+    "796"
+  ],
+  "saharsa": [
+    "852"
+  ],
+  "lalitpur": [
+    "284"
+  ],
+  "kamjong": [
+    "795"
+  ],
+  "nellore": [
+    "524"
+  ],
+  "south andaman": [
+    "744"
+  ],
+  "mahoba": [
+    "210"
+  ],
+  "saiha": [
+    "796"
+  ],
+  "kanniyakumari": [
+    "629"
+  ],
+  "amroha": [
+    "244"
+  ],
+  "balod": [
+    "491"
+  ],
+  "bajali": [
+    "781"
+  ],
+  "hnahthial": [
+    "796"
+  ],
+  "south goa": [
+    "403"
+  ],
+  "south": [
+    "110"
+  ],
+  "gurdaspur": [
+    "143",
+    "145"
+  ],
+  "maharajganj": [
+    "273"
+  ],
+  "kasganj": [
+    "207"
+  ],
+  "karimganj": [
+    "788"
+  ],
+  "chengalpattu": [
+    "600",
+    "603"
+  ],
+  "ghazipur": [
+    "232",
+    "233",
+    "275"
+  ],
+  "koraput": [
+    "763",
+    "764",
+    "765"
+  ],
+  "niwari": [
+    "472"
+  ],
+  "jhajjar": [
+    "124"
+  ],
+  "unnao": [
+    "209",
+    "229"
+  ],
+  "kra daadi": [
+    "791"
+  ],
+  "nuh": [
+    "122"
+  ],
+  "jharsuguda": [
+    "768"
+  ],
+  "gandhidham": [
+    "370"
+  ],
+  "sonbhadra": [
+    "231"
+  ],
+  "khurda": [
+    "751"
+  ],
+  "pherzawl": [
+    "795"
+  ],
+  "kangpokpi": [
+    "795"
+  ],
+  "jhansi": [
+    "284",
+    "285"
+  ],
+  "guwahati": [
+    "781"
+  ],
+  "lakshadweep district": [
+    "682"
+  ],
+  "nicobars": [
+    "744"
+  ],
+  "sribhumi": [
+    "788"
+  ],
+  "rewari": [
+    "122",
+    "123"
+  ],
+  "hapur": [
+    "201",
+    "245"
+  ],
+  "ramban": [
+    "182"
+  ],
+  "south garo hills": [
+    "794"
+  ],
+  "surguja": [
+    "497"
+  ],
+  "tengnoupal": [
+    "795"
+  ],
+  "kapurthala": [
+    "144"
+  ],
+  "chitrakoot": [
+    "210"
+  ],
+  "faridkot": [
+    "151",
+    "152"
+  ],
+  "krishnagiri": [
+    "635"
+  ],
+  "mangaluru": [
+    "575"
+  ],
+  "west kameng": [
+    "790"
+  ],
+  "tirap": [
+    "792"
+  ],
+  "west": [
+    "110"
+  ],
+  "hosapete": [
+    "583"
+  ],
+  "davanagere": [
+    "577"
+  ],
+  "buldana": [
+    "443"
+  ],
+  "kurung kumey": [
+    "791"
+  ],
+  "mohla manpur chowki": [
+    "491"
+  ],
+  "sirmaur": [
+    "173"
+  ],
+  "lohit": [
+    "792"
+  ],
+  "kabirdham": [
+    "491"
+  ],
+  "sri muktsar sahib": [
+    "151",
+    "152"
+  ],
+  "panchkula": [
+    "133",
+    "134"
+  ],
+  "doda": [
+    "182"
+  ],
+  "mahe": [
+    "673"
+  ],
+  "upper dibang": [
+    "791",
+    "792"
+  ],
+  "visakhapatnam": [
+    "530",
+    "531"
+  ],
+  "north garo hills": [
+    "794"
+  ],
+  "south west": [
+    "110"
+  ],
+  "daman": [
+    "396"
+  ],
+  "gaurella pendra marwahi": [
+    "495"
+  ],
+  "shahdara": [
+    "110"
+  ],
+  "east singhbhum": [
+    "832"
+  ],
+  "leparada": [
+    "791"
+  ],
+  "shi yomi": [
+    "791",
+    "792"
+  ],
+  "west siang": [
+    "791"
+  ],
+  "siang": [
+    "791",
+    "792"
+  ],
+  "pakke kessang": [
+    "790",
+    "791"
+  ],
+  "east kameng": [
+    "790"
+  ],
+  "changlang": [
+    "792"
+  ],
+  "rangareddy": [
+    "500"
+  ],
+  "north east": [
+    "110"
+  ],
+  "ghaziabad": [
+    "201",
+    "245"
+  ],
+  "farrukhabad": [
+    "209"
+  ],
+  "east siang": [
+    "791"
+  ],
+  "motihari": [
+    "845"
+  ],
+  "karaikal": [
+    "609"
+  ],
+  "dadra and nagar haveli": [
+    "396"
+  ],
+  "south west garo hills": [
+    "794"
+  ],
+  "reasi": [
+    "182",
+    "185"
+  ],
+  "north west": [
+    "110"
+  ],
+  "yadgiri": [
+    "585"
+  ],
+  "noney": [
+    "795"
+  ],
+  "kinnaur": [
+    "172"
+  ],
+  "jind": [
+    "126"
+  ],
+  "bhimavaram": [
+    "534"
+  ],
+  "arwal": [
+    "804",
+    "824"
+  ],
+  "bapatla": [
+    "522"
+  ],
+  "kishtwar": [
+    "182",
+    "192"
+  ],
+  "rampur bushahr": [
+    "172"
+  ],
+  "katpadi": [
+    "632"
+  ],
+  "narmadapuram": [
+    "461"
+  ],
+  "dahod": [
+    "389"
+  ],
+  "shillong": [
+    "793"
+  ],
+  "kamle": [
+    "791"
+  ],
+  "tawang": [
+    "790"
+  ],
+  "padgha": [
+    "421"
+  ],
+  "diu": [
+    "362"
+  ],
+  "samba": [
+    "181",
+    "184"
+  ],
+  "kaimur": [
+    "821"
+  ],
+  "thodupuzha": [
+    "685"
+  ],
+  "eluru": [
+    "521",
+    "534"
+  ],
+  "dakshin bastar dantewada": [
+    "494"
+  ],
+  "kushinagar": [
+    "274"
+  ],
+  "bhadravati": [
+    "577"
+  ],
+  "dehri on sone": [
+    "821"
+  ],
+  "medchal malkajigiri dist": [
+    "500"
+  ],
+  "ahmedabad": [
+    "380"
+  ],
+  "lower siang": [
+    "791"
+  ],
+  "bhubaneswar": [
+    "751"
+  ],
+  "badlapur": [
+    "421"
+  ],
+  "mohla manpur ambagarh chowki": [
+    "491"
+  ],
+  "panvel": [
+    "410"
+  ],
+  "haldwani": [
+    "263"
+  ],
+  "bhiwandi": [
+    "421"
+  ],
+  "malerkotla": [
+    "148"
+  ],
+  "sahibganj": [
+    "813"
+  ],
+  "konaseema": [
+    "533"
+  ],
+  "madikeri": [
+    "571"
+  ],
+  "robertsonpet": [
+    "563"
+  ],
+  "puttur": [
+    "574"
+  ],
+  "sabour": [
+    "813"
+  ],
+  "uttarakannada": [
+    "581"
+  ],
+  "junagarh": [
+    "360"
+  ],
+  "trichy": [
+    "620"
+  ],
+  "chhtrapati sambhajinagar": [
+    "431"
+  ],
+  "ambikapur": [
+    "497"
+  ],
+  "patna sahib": [
+    "800"
+  ],
+  "shivmogga": [
+    "577"
+  ],
+  "murbad": [
+    "421"
+  ],
+  "chickballapura": [
+    "561"
+  ],
+  "shahapur": [
+    "421"
+  ],
+  "birwadi": [
+    "402"
+  ],
+  "kasara": [
+    "421"
+  ],
+  "sironj": [
+    "464"
+  ],
+  "kanpur": [
+    "208"
+  ],
+  "burdwan": [
+    "713"
+  ],
+  "kharagpur": [
+    "721"
+  ],
+  "kochi": [
+    "682"
+  ],
+  "ambala cantt": [
+    "133"
+  ],
+  "barauda": [
+    "484"
+  ],
+  "sanchore": [
+    "343"
+  ]
+}

@@ -1,0 +1,11 @@
+# Ignore database files to prevent unnecessary app restarts during development
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
