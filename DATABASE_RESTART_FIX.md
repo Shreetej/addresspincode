@@ -1,104 +1,62 @@
-# Fix for Application Restart Issue Due to SQLite Database Changes
+# History database location
 
-## Problem Description
-The Tauri application was restarting every time the SQLite database file (`pincode_history.db`) was modified. This was happening because:
+## Background
 
-1. The database file was being created in the current working directory (src-tauri folder) during development
-2. Tauri has a hot reload mechanism that watches the src-tauri directory for file changes
-3. When the database file was modified (when users processed Excel files), it triggered the file watcher
-4. This caused the entire application to restart
+The bulk-job history is kept in a SQLite database. Originally `init_db()` opened it by the
+bare relative path `history.db`, which caused two separate problems.
 
-## Solution Implemented
+**During development**, the working directory is `src-tauri/`, so the database file was created
+inside the directory Tauri's file watcher monitors. Every time a bulk job wrote to it, the watcher
+fired and restarted the whole app mid-run.
 
-### 1. Moved Database to App Data Directory
-- Modified the main function to use Tauri path resolution
-- Database is now stored in the application's data directory (not in src-tauri)
-- Added proper error handling and directory creation
+**In an installed build**, the working directory is not `src-tauri/` — on macOS it is `/`. Opening
+`history.db` there fails outright. Because `init_db()` is called from `load_data()` and its error
+propagates via `?`, the failure aborted the entire data load: the app reported
+*"Database Load Failed"* on startup and was unusable. This affected every packaged build, while
+dev builds appeared to work fine.
 
-### 2. Added Database Migration
-- The application now checks for an existing database in the old location
-- If found, it automatically migrates the data to the new location
-- This ensures no user data is lost during the migration
+## Fix
 
-### 3. Updated File Watching Configuration
-- Updated `.taurignore` file to ignore database files and temporary files
-- This provides an additional layer of protection against unwanted restarts
+`init_db()` now takes an `&AppHandle` and resolves the per-user application data directory through
+Tauri's path API, creating it if necessary:
 
-## Key Changes Made
+```rust
+let app_data_dir = app_handle
+    .path()
+    .app_data_dir()
+    .map_err(|e| anyhow::anyhow!("failed to resolve app data directory: {}", e))?;
+std::fs::create_dir_all(&app_data_dir)?;
 
-### Code Changes (`src-tauri/src/main.rs`):
-
-1. **Import Updates**:
-   ```rust
-   use tauri::{Emitter, Manager}; // Added Manager trait
-   ```
-
-2. **Database Path Resolution**:
-   ```rust
-   let app_data_dir = app.path()
-       .app_data_dir()
-       .expect("Failed to resolve app data directory");
-   
-   let db_path = app_data_dir.join("pincode_history.db");
-   ```
-
-3. **Database Migration Logic**:
-   ```rust
-   // Check if there's an existing database in the old location and migrate it
-   let old_db_path = std::path::Path::new("pincode_history.db");
-   if old_db_path.exists() {
-       eprintln!("Found existing database in old location. Migrating to app data directory...");
-       if let Err(e) = std::fs::copy(old_db_path, &db_path) {
-           eprintln!("Warning: Failed to migrate existing database: {}", e);
-       } else {
-           eprintln!("Successfully migrated existing database.");
-       }
-   }
-   ```
-
-### Configuration Changes (`src-tauri/.taurignore`):
-
-Added rules to ignore database and temporary files:
-```
-# Ignore database files to prevent unnecessary app restarts during development
-*.db
-*.sqlite
-*.sqlite3
-
-# Ignore log files
-*.log
-
-# Ignore temporary files
-*.tmp
-*.temp
+let db_path = app_data_dir.join("history.db");
 ```
 
-## Benefits of the Fix
+If no database exists at the new location but one is left over at the old CWD-relative path, it is
+copied across once so no history is lost. A failed migration logs a warning rather than aborting
+startup.
 
-1. **No More Restarts**: The application no longer restarts when the database is modified
-2. **Better Data Persistence**: Database is stored in a proper application data directory
-3. **Cross-Platform Compatibility**: Uses Tauri path resolution for proper OS-specific directories
-4. **Data Migration**: Automatically migrates existing data without loss
-5. **Development Friendly**: Additional protection through `.taurignore` configuration
+`src-tauri/.taurignore` additionally excludes `*.db`, `*.sqlite`, `*.sqlite3`, `*.log`, `*.tmp`
+and `*.temp` from the file watcher, as defence in depth against dev-time restarts.
 
-## Database Location
+## Resulting location
 
-After the fix, the database will be stored in:
-- **Windows**: `%APPDATA%\addresspincode\pincode_history.db`
-- **macOS**: `~/Library/Application Support/addresspincode/pincode_history.db`
-- **Linux**: `~/.local/share/addresspincode/pincode_history.db`
+The database is `history.db`, stored under the bundle identifier `com.shree.addresspincode`:
+
+| Platform | Path |
+| --- | --- |
+| macOS | `~/Library/Application Support/com.shree.addresspincode/history.db` |
+| Windows | `%APPDATA%\com.shree.addresspincode\history.db` |
+| Linux | `~/.local/share/com.shree.addresspincode/history.db` |
 
 ## Verification
 
-The fix has been tested and verified:
-1. ✅ Code compiles without errors
-2. ✅ Application starts successfully
-3. ✅ Database migration works (existing data is preserved)
-4. ✅ Application runs without restart issues
+Confirmed against the packaged `AddressPincode.app` launched with its working directory set to `/`,
+reproducing the installed-app condition that previously failed:
 
-## Usage
+```
+Starting background data load...
+Loaded 172572 records.
+Data load complete!
+```
 
-Users can continue using the application normally. No additional action is required:
-- Existing data is automatically migrated
-- New data will be stored in the proper location
-- No functional changes to the user interface or features
+`history.db` was created at the path above, and the identifier was checked against
+`CFBundleIdentifier` in the built app's `Info.plist`.

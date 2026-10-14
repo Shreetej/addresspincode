@@ -129,9 +129,28 @@ struct ProgressEvent {
 
 // -------- DATABASE INIT --------
 
-fn init_db() -> Result<Connection> {
-    let db_path = "history.db";
-    let conn = Connection::open(db_path)?;
+fn init_db(app_handle: &AppHandle) -> Result<Connection> {
+    // The working directory of an installed app is not writable (it is `/` on
+    // macOS), so the history DB has to live in the per-user app data directory.
+    let app_data_dir = app_handle
+        .path()
+        .app_data_dir()
+        .map_err(|e| anyhow::anyhow!("failed to resolve app data directory: {}", e))?;
+    std::fs::create_dir_all(&app_data_dir)?;
+
+    let db_path = app_data_dir.join("history.db");
+
+    // One-time migration of a DB left in the old CWD-relative location by dev builds.
+    if !db_path.exists() {
+        let legacy_path = PathBuf::from("history.db");
+        if legacy_path.exists() {
+            if let Err(e) = std::fs::copy(&legacy_path, &db_path) {
+                eprintln!("warning: could not migrate existing history DB: {}", e);
+            }
+        }
+    }
+
+    let conn = Connection::open(&db_path)?;
     conn.execute(
         "CREATE TABLE IF NOT EXISTS bulk_jobs (
             id TEXT PRIMARY KEY,
@@ -319,7 +338,7 @@ fn load_data(resource_path: &std::path::Path, app_handle: &AppHandle) -> anyhow:
     let city_list: Vec<String> = city_names.keys().cloned().collect();
 
     println!("Loaded {} records.", index.len());
-    let db_conn = init_db()?;
+    let db_conn = init_db(app_handle)?;
 
     Ok(AppState {
         index, inverted_index,

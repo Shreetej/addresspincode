@@ -8,6 +8,10 @@ import {
   Database, Download, Globe, Clock, BarChart3, X
 } from "lucide-react";
 
+// Approximate dataset size, used only to pace the startup progress bar. The bar
+// is driven to 100% by the "data-loaded" event, so this need not be exact.
+const EXPECTED_RECORD_COUNT = 172572;
+
 export default function App() {
   const [activeTab, setActiveTab] = useState("search");
   const [address, setAddress] = useState("");
@@ -29,13 +33,14 @@ export default function App() {
   useEffect(() => {
     // Listeners
     const unlistenLoaded = listen("data-loaded", (e) => {
-      if(e.payload) { setIsAppReady(true); showNotify('success', "Database Ready"); }
+      if(e.payload) { setLoadProgress(100); setIsAppReady(true); showNotify('success', "Database Ready"); }
       else { showNotify('error', "Database Load Failed"); }
     });
 
     const unlistenLoadProg = listen("loading-progress", (e) => {
-      // Approx 155k records for full bar
-      setLoadProgress(Math.min((e.payload / 155000) * 100, 100));
+      // Hold just short of full until "data-loaded" confirms indexing finished,
+      // so the bar never parks at 100% while records are still loading.
+      setLoadProgress(Math.min((e.payload / EXPECTED_RECORD_COUNT) * 100, 99));
     });
 
     const unlistenBulk = listen("bulk-progress", (e) => {

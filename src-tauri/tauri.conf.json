@@ -12,9 +12,12 @@
   "app": {
     "windows": [
       {
-        "title": "addresspincode",
-        "width": 800,
-        "height": 600
+        "title": "AddressPincode",
+        "width": 1200,
+        "height": 800,
+        "minWidth": 1000,
+        "minHeight": 700,
+        "resizable": true
       }
     ],
     "security": {
@@ -33,7 +36,9 @@
     ],
     "resources": [
       "pincode-chinna.csv",
-      "json/*"
+      "json/state_pin.json",
+      "json/district_pin.json",
+      "json/city_pin.json"
     ]
   }
 }
